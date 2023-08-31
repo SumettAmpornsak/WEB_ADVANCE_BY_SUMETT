@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+}
+
+.container {
+    border: 2px;
+    padding: 25px;
+    margin-top: 80px;
+    max-width: 600px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+div{
+    border-radius: 10px
+}
+    
